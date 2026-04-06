@@ -1,0 +1,4 @@
+﻿method=Second kind Lobatto
+nodes_count=7
+function_id=5
+function_name=|x-a1| * |x-a2|

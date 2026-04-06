@@ -1,0 +1,4 @@
+﻿method=First kind Gauss
+nodes_count=4
+function_id=3
+function_name=|x-a|

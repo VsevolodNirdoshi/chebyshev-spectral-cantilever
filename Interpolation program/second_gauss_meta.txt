@@ -1,0 +1,4 @@
+﻿method=Second kind Gauss
+nodes_count=26
+function_id=3
+function_name=|x-a|
